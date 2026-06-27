@@ -5,7 +5,7 @@ I like doing small, random projects. I sometimes make content for other games. I
 I sometimes help others with making stuff, but I'm mostly working on my other projects. It's like a hobby for me if I'm not playing games.
 
 <p align="center">
-I like the Thumby Color and the Arduboy FX. I own a Meta Quest 3. I have an interest in Linux. I also like desktop customization, like custom themes and skins.
+I like the Thumby Color and the Arduboy. I own a Meta Quest 3. I have an interest in Linux. I also like desktop customization, like custom themes and skins.
 
 <p align="center">
 I have an interest in technology, like Retro Gaming and Old Computers, but I also like modern tech too.
