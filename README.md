@@ -1,4 +1,8 @@
-## Hi there 👋
+## I'm Kitto Dev. 
+I like doing small, random projects. I sometimes make content for other games. I'm interested in BONELAB and VRChat content creation.
+I sometimes help others with making stuff, but I'm mostly working on my other projects.
+
+
 
 <!--
 **KittoDevv/KittoDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
