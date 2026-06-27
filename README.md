@@ -1,8 +1,8 @@
 ## I'm Kitto Dev. 
-I like doing small, random projects. I sometimes make content for other games. I'm interested in BONELAB and VRChat content creation.
-I sometimes help others with making stuff, but I'm mostly working on my other projects.
+I like doing small, random projects. I sometimes make content for other games. I'm interested in creating content for BONELAB and VRChat.
+I sometimes help others with making stuff, but I'm mostly working on my other projects. It's like a hobby for me if I'm not playing games.
 
-
+I like the Thumby Color and the Arduboy FX. I own a Meta Quest 3. I have an interest in Linux. I also like desktop customization, like custom themes and skins.
 
 <!--
 **KittoDevv/KittoDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
